@@ -11,36 +11,23 @@ Include the neural network model diagram.
 
 ## DESIGN STEPS
 ### STEP 1: 
-
-Write your own steps
-
+Collect and preprocess the image dataset.
 ### STEP 2: 
-
-
-
+Import required deep learning libraries.
 ### STEP 3: 
-
-
-
+Build the CNN architecture.
 ### STEP 4: 
-
-
-
+Train the CNN model using training data.
 ### STEP 5: 
-
-
-
+Evaluate the model performance using test data.
 ### STEP 6: 
-
-
-
-
+Test the model with new images and verify predictions.
 
 ## PROGRAM
 
-### Name:
+### Name: Yogesh.V
 
-### Register Number:
+### Register Number: 212223230250
 
 ```python
 class CNNClassifier(nn.Module):
